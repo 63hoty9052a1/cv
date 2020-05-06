@@ -4,7 +4,7 @@
 |---|-----|
 |職種|Webアプリケーションエンジニア（オープン系）|
 |業務年数|10年|
-|ポートフォリオ|[SpringBoot-REST API](https://github.com/63hoty9052a1/spring-boot-rest)|
+|ポートフォリオ|[Spring Boot-REST API](https://github.com/63hoty9052a1/spring-boot-rest)|
 
 ## スキル
 ### 言語
